@@ -1,0 +1,219 @@
+/*
+* @Author: liujinshuai
+* @Date:   2019-06-05 11:56:33
+* @Last Modified by:   liujinshuai
+* @Last Modified time: 2019-06-07 12:26:02
+*/
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.top{
+	background-color:#f4f4f4;
+	height: 31px;
+}
+.top a{
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+}
+.top div{
+	width: 1200px;
+	margin: 0 auto;
+}
+.top img{
+	margin-top: 5px;
+}
+.top2{
+	float: right;
+}
+.head{
+	height: 120px;
+}
+.head2{
+	width: 1200px;
+	margin: 0 auto;
+}
+.head2 img{
+	margin-top: 22px;
+	float: left;
+}
+.head2 form{
+	position: absolute;
+	
+}
+.head3{
+	width: 405px;
+	height: 36px;
+	border: red 2px solid;
+	margin-top: 40px;
+	margin-left: 380px;
+	position: absolute;
+}
+.head4{
+	width: 90px;
+	height: 40px;
+	border: red;
+	background: red;
+	color: white;
+	margin-top: 40px;
+	margin-left: 785px;
+	position: absolute;
+}
+.head2 div{
+	float: right;
+	width: 150px;
+	height: 40px;
+	margin-top: 40px;
+	background: #f5f5f5;
+	border: solid 1px #e3e3e3;
+	font-size: 15px;
+}
+.head2 div img{
+	margin-top: 8px;
+	margin-left: 20px;
+}
+.head2 a{
+	color: red;
+	text-decoration: none;
+	line-height: 40px;
+}
+.nav{
+	width: 1200px;
+	margin: 0 auto;
+}
+.nav div{
+	float:left ;
+}
+.nav a{
+	display: inline-block;
+	text-decoration: none;
+	width: 90px;
+	height: 32px;
+	color: black;
+	line-height: 32px;
+	text-align: center;
+}
+.nav a:hover{
+	background: red;
+	color: white;
+	border-radius: 3px;
+}
+.line{
+	background-color: red;
+	height: 3px;
+	margin-top: 36px;
+}
+.dqwz{
+	width: 1200px;
+	margin: 0 auto;
+	padding-top: 28px;
+}
+.dqwz a{
+	text-decoration: none;
+	color: black;
+}
+
+.body{
+	background: #fbfbfb;
+	height: 650px;
+}
+.else{
+	width: 1200px;
+	margin: 0 auto;
+}
+.fenlei{
+	width: 215px;
+	height: 45px;
+	background: white;
+	margin-top: 25px;
+}
+.fenlei img{
+	margin-top: 15px;
+	margin-left: 34px;
+}
+.fenlei a{
+	display: inline-block;
+	margin-top: 12px;
+	margin-left: 25px;
+	position: absolute;
+	text-decoration: none;
+	color: black;
+}
+.fenlei2{
+	height: 513px;
+	width: 215px;
+	margin-top: 10px;
+	background: white;
+	position: absolute;
+}
+.fenlei2 a{
+	width: 215px;
+	height: 45px;
+	display: block;
+	padding-left:  75px;
+	line-height: 45px;
+	text-decoration: none;
+}
+.sp{
+	color: red;
+}
+.shyp{
+	color: black;
+}
+.shipin{
+	height: 565px;
+	width: 975px;
+	background: white;
+	float: right;
+	margin-top: -45px;
+}
+.else{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+}
+.shipin img{
+	margin: 15px 0 0 15px;
+}
+.bottom{
+	height: 200px;
+	background:#2e2e2e  ;
+}
+.bottom a{
+	text-decoration: none;
+	color: white;
+	font-size: 15px;
+}
+.bottom ul{
+	margin-left: 138px;
+	float: left;
+}
+.bottom ul:first-child{
+	margin-left: 12px;
+	float: left;
+}
+.bottom li{
+	list-style-type: none;
+	height: 25px;
+}
+ul li:first-child{
+	font-size: 18px;
+	color: white;
+	padding-top: 20px;
+}
+.bottom div{
+	width: 1200px;
+	margin: 0 auto;
+	padding-bottom: 140px;
+	border-bottom: solid #454545 1px;
+}
+.bottom p{
+	color: #6f6f6f;
+	font-size: 14px;
+	text-align: center;
+}
+.bottom p a{
+	text-decoration: none;
+	color: #6f6f6f;
+}
